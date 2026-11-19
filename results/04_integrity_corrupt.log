@@ -1,0 +1,13 @@
+  ok   projects = github + no-github + pypi failures
+  ok   repositories = resolved + unresolved
+  FAIL configs on disk = with_config
+  FAIL entry kinds re-count
+  FAIL entries.csv rows = remote entries
+  FAIL pin kinds sum
+  FAIL measured + not measured = entries
+  FAIL measured re-count
+  FAIL current re-count
+  FAIL >=5 behind re-count
+  FAIL percentages agree with k/n
+  ok   pinned version is never newer than latest
+RESULT: FAIL (9)

@@ -1,0 +1,25 @@
+  ok   projects = github + no-github + pypi failures
+  ok   repositories = resolved + unresolved
+  ok   configs on disk = with_config
+  ok   entry kinds re-count
+  ok   entries.csv rows = remote entries
+  ok   pin kinds sum
+  ok   measured + not measured = entries
+  ok   measured re-count
+  ok   current re-count
+  ok   >=5 behind re-count
+  ok   percentages agree with k/n
+  ok   pinned version is never newer than latest
+  ok   live tag github.com/pycqa/flake8 @ 7.3.0
+  ok   live tag github.com/pre-commit/mirrors-mypy @ v2.4.1
+  ok   live tag github.com/pycqa/flake8 @ 7.5.0
+  ok   live tag github.com/pycqa/bandit @ 1.8.3
+  ok   live tag github.com/pycqa/flake8 @ 7.3.0
+  ok   live tag github.com/abravalheri/validate-pyproject @ v0.27
+  ok   live tag github.com/pre-commit/pre-commit-hooks @ v5.0.0
+  ok   live tag github.com/psf/black @ 24.10.0
+  ok   live tag github.com/pre-commit/mirrors-clang-format @ v23.1.2
+  ok   live tag github.com/pre-commit/pre-commit-hooks @ v5.0.0
+  ok   live tag github.com/pycqa/isort @ 9.0.1
+  ok   live tag github.com/astral-sh/ruff-pre-commit @ v0.15.8
+RESULT: PASS

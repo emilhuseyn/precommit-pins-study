@@ -1,0 +1,1210 @@
+{
+"git://github.com/lucas-c/pre-commit-hooks-markup": {
+"status": null,
+"location": null
+},
+"github.com/abravalheri/validate-pyproject": {
+"status": 200,
+"location": null
+},
+"github.com/adamchainz/blacken-docs": {
+"status": 200,
+"location": null
+},
+"github.com/adamchainz/djade-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/adamchainz/django-upgrade": {
+"status": 200,
+"location": null
+},
+"github.com/adhtruong/mirrors-typos": {
+"status": 200,
+"location": null
+},
+"github.com/adityahase/black": {
+"status": 301,
+"location": "https://github.com/frappe/black"
+},
+"github.com/adrienverge/yamllint": {
+"status": 200,
+"location": null
+},
+"github.com/aio-libs/sort-all": {
+"status": 200,
+"location": null
+},
+"github.com/akaihola/darker": {
+"status": 200,
+"location": null
+},
+"github.com/aleksac/hadolint-py": {
+"status": 200,
+"location": null
+},
+"github.com/alessandrojcm/commitlint-pre-commit-hook": {
+"status": 200,
+"location": null
+},
+"github.com/alessio-locatelli/ruff-extra-rules": {
+"status": 200,
+"location": null
+},
+"github.com/alexandermattturner/ci-truth-serum": {
+"status": 200,
+"location": null
+},
+"github.com/ambv/black": {
+"status": 301,
+"location": "https://github.com/psf/black"
+},
+"github.com/andrejorsula/pre-commit-cargo": {
+"status": 200,
+"location": null
+},
+"github.com/ansible/actions": {
+"status": 200,
+"location": null
+},
+"github.com/ansible/ansible-lint": {
+"status": 200,
+"location": null
+},
+"github.com/ansible/team-devtools": {
+"status": 200,
+"location": null
+},
+"github.com/antonbabenko/pre-commit-terraform": {
+"status": 200,
+"location": null
+},
+"github.com/ariebovenberg/slotscheck": {
+"status": 200,
+"location": null
+},
+"github.com/arkinmodi/add-license-header": {
+"status": 200,
+"location": null
+},
+"github.com/asottile/add-trailing-comma": {
+"status": 200,
+"location": null
+},
+"github.com/asottile/blacken-docs": {
+"status": 301,
+"location": "https://github.com/adamchainz/blacken-docs"
+},
+"github.com/asottile/pyupgrade": {
+"status": 200,
+"location": null
+},
+"github.com/asottile/reorder-python-imports": {
+"status": 200,
+"location": null
+},
+"github.com/asottile/reorder_python_imports": {
+"status": 301,
+"location": "https://github.com/asottile/reorder-python-imports"
+},
+"github.com/asottile/seed-isort-config": {
+"status": 301,
+"location": "https://github.com/asottile-archive/seed-isort-config"
+},
+"github.com/asottile/setup-cfg-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/asottile/yesqa": {
+"status": 200,
+"location": null
+},
+"github.com/astral-sh/ruff-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/astral-sh/ty-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/astral-sh/uv-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/betterleaks/betterleaks": {
+"status": 200,
+"location": null
+},
+"github.com/biomejs/pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/blankspruce/gersemi": {
+"status": 200,
+"location": null
+},
+"github.com/blankspruce/gersemi-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/bufbuild/buf": {
+"status": 200,
+"location": null
+},
+"github.com/cdce8p/python-typing-update": {
+"status": 200,
+"location": null
+},
+"github.com/charliermarsh/ruff-pre-commit": {
+"status": 301,
+"location": "https://github.com/astral-sh/ruff-pre-commit"
+},
+"github.com/checkmake/checkmake": {
+"status": 200,
+"location": null
+},
+"github.com/cheshirekow/cmake-format-precommit": {
+"status": 200,
+"location": null
+},
+"github.com/citation-file-format/cff-converter-python": {
+"status": 301,
+"location": "https://github.com/citation-file-format/cffconvert"
+},
+"github.com/citation-file-format/cffconvert": {
+"status": 200,
+"location": null
+},
+"github.com/cmake-lint/cmake-lint": {
+"status": 200,
+"location": null
+},
+"github.com/codespell-project/codespell": {
+"status": 200,
+"location": null
+},
+"github.com/codingjoe/esupgrade": {
+"status": 200,
+"location": null
+},
+"github.com/codingjoe/relint": {
+"status": 200,
+"location": null
+},
+"github.com/commitizen-tools/commitizen": {
+"status": 200,
+"location": null
+},
+"github.com/compilerla/conventional-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/compwa/taplo-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/cpplint/cpplint": {
+"status": 200,
+"location": null
+},
+"github.com/crate-ci/committed": {
+"status": 200,
+"location": null
+},
+"github.com/crate-ci/typos": {
+"status": 200,
+"location": null
+},
+"github.com/danielnoord/pydocstringformatter": {
+"status": 200,
+"location": null
+},
+"github.com/davidanson/markdownlint-cli2": {
+"status": 200,
+"location": null
+},
+"github.com/dbt-labs/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/djlint/djlint": {
+"status": 200,
+"location": null
+},
+"github.com/domdfcoding/flake2lint": {
+"status": 200,
+"location": null
+},
+"github.com/domdfcoding/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/domdfcoding/taplo-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/dontirun/text-prepender": {
+"status": 200,
+"location": null
+},
+"github.com/dosisod/refurb": {
+"status": 200,
+"location": null
+},
+"github.com/doublify/pre-commit-clang-format": {
+"status": 200,
+"location": null
+},
+"github.com/doublify/pre-commit-rust": {
+"status": 200,
+"location": null
+},
+"github.com/dzhu/rstfmt": {
+"status": 200,
+"location": null
+},
+"github.com/econchick/interrogate": {
+"status": 200,
+"location": null
+},
+"github.com/editorconfig-checker/editorconfig-checker": {
+"status": 200,
+"location": null
+},
+"github.com/editorconfig-checker/editorconfig-checker.python": {
+"status": 200,
+"location": null
+},
+"github.com/elastic/apm-pipeline-library": {
+"status": 200,
+"location": null
+},
+"github.com/elidupuis/mirrors-sass-lint": {
+"status": 200,
+"location": null
+},
+"github.com/espressif/check-copyright": {
+"status": 200,
+"location": null
+},
+"github.com/espressif/conventional-precommit-linter": {
+"status": 200,
+"location": null
+},
+"github.com/etiennebacher/jarl-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/executablebooks/mdformat": {
+"status": 301,
+"location": "https://github.com/hukkin/mdformat"
+},
+"github.com/facebook/pyrefly-pre-commit": {
+"status": 301,
+"location": "https://github.com/pyrefly-org/pyrefly-pre-commit"
+},
+"github.com/fizyk/pyproject-validator": {
+"status": 200,
+"location": null
+},
+"github.com/flakeheaven/flakeheaven": {
+"status": 200,
+"location": null
+},
+"github.com/floatingpurr/sync_with_poetry": {
+"status": 200,
+"location": null
+},
+"github.com/flying-sheep/bibfmt": {
+"status": 200,
+"location": null
+},
+"github.com/fortran-lang/fprettify": {
+"status": 200,
+"location": null
+},
+"github.com/fpgmaas/deptry": {
+"status": 301,
+"location": "https://github.com/osprey-oss/deptry"
+},
+"github.com/fredrikaverpil/creosote": {
+"status": 200,
+"location": null
+},
+"github.com/frostming/fix-future-annotations": {
+"status": 200,
+"location": null
+},
+"github.com/fsfe/reuse-tool": {
+"status": 200,
+"location": null
+},
+"github.com/fsouza/mirrors-pyright": {
+"status": 200,
+"location": null
+},
+"github.com/gaborbernat/simplint-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/gitleaks/gitleaks": {
+"status": 200,
+"location": null
+},
+"github.com/golangci/golangci-lint": {
+"status": 200,
+"location": null
+},
+"github.com/google/addlicense": {
+"status": 200,
+"location": null
+},
+"github.com/google/go-jsonnet": {
+"status": 200,
+"location": null
+},
+"github.com/google/keep-sorted": {
+"status": 200,
+"location": null
+},
+"github.com/google/pyink": {
+"status": 200,
+"location": null
+},
+"github.com/google/pytype": {
+"status": 200,
+"location": null
+},
+"github.com/google/yamlfmt": {
+"status": 200,
+"location": null
+},
+"github.com/google/yapf": {
+"status": 200,
+"location": null
+},
+"github.com/gruntwork-io/pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/hadialqattan/pycln": {
+"status": 200,
+"location": null
+},
+"github.com/hadolint/hadolint": {
+"status": 200,
+"location": null
+},
+"github.com/hauntsaninja/black-pre-commit-mirror": {
+"status": 301,
+"location": "https://github.com/psf/black-pre-commit-mirror"
+},
+"github.com/henryiii/check-sdist": {
+"status": 200,
+"location": null
+},
+"github.com/henryiii/flake8-lazy": {
+"status": 200,
+"location": null
+},
+"github.com/henryiii/validate-pyproject-schema-store": {
+"status": 200,
+"location": null
+},
+"github.com/hhatto/autopep8": {
+"status": 200,
+"location": null
+},
+"github.com/hoxbro/clean_notebook": {
+"status": 200,
+"location": null
+},
+"github.com/hoxbro/prettier-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/hoxbro/taplo-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/huggingface/doc-builder": {
+"status": 200,
+"location": null
+},
+"github.com/hukkin/docformatter": {
+"status": 200,
+"location": null
+},
+"github.com/hukkin/mdformat": {
+"status": 200,
+"location": null
+},
+"github.com/humitos/mirrors-autoflake": {
+"status": 404,
+"location": null
+},
+"github.com/huntermcgushion/docstr_coverage": {
+"status": 200,
+"location": null
+},
+"github.com/iamthefij/docker-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/ibm/detect-secrets": {
+"status": 200,
+"location": null
+},
+"github.com/igorshubovych/markdownlint-cli": {
+"status": 200,
+"location": null
+},
+"github.com/ikamensh/flynt": {
+"status": 200,
+"location": null
+},
+"github.com/ingomeyer441/detect-direct-checkins": {
+"status": 200,
+"location": null
+},
+"github.com/instagram/fixit": {
+"status": 200,
+"location": null
+},
+"github.com/isidentical/teyit": {
+"status": 200,
+"location": null
+},
+"github.com/jackdewinter/pymarkdown": {
+"status": 200,
+"location": null
+},
+"github.com/jazzband/pip-tools": {
+"status": 301,
+"location": "https://github.com/pypa/pip-tools"
+},
+"github.com/jdx/jactionlint": {
+"status": 200,
+"location": null
+},
+"github.com/jendrikseipp/vulture": {
+"status": 200,
+"location": null
+},
+"github.com/joc0de/pre-commit-prettier": {
+"status": 200,
+"location": null
+},
+"github.com/jolars/panache-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/jorisroovers/gitlint": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/blank-line-after-blocks": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/format-docstring": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/format-json": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/markdown-heading-numbering": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/markdown-toc-creator": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/muff-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/pre-commit-changelog-full-diff-check": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/pre-commit-tox-version-sync": {
+"status": 200,
+"location": null
+},
+"github.com/jsh9/pydoclint": {
+"status": 200,
+"location": null
+},
+"github.com/jumanjihouse/pre-commit-hook-yamlfmt": {
+"status": 200,
+"location": null
+},
+"github.com/jumanjihouse/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/jvllmr/pre-commit-prettier": {
+"status": 200,
+"location": null
+},
+"github.com/keewis/blackdoc": {
+"status": 200,
+"location": null
+},
+"github.com/keith/pre-commit-buildifier": {
+"status": 200,
+"location": null
+},
+"github.com/kieran-ryan/pyprojectsort": {
+"status": 200,
+"location": null
+},
+"github.com/kjanat/actionlint": {
+"status": 200,
+"location": null
+},
+"github.com/kludex/no-optional": {
+"status": 200,
+"location": null
+},
+"github.com/koalaman/shellcheck-precommit": {
+"status": 200,
+"location": null
+},
+"github.com/kurtmckee/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/kynan/nbstripout": {
+"status": 200,
+"location": null
+},
+"github.com/leaktk/leaktk": {
+"status": 200,
+"location": null
+},
+"github.com/lilspazjoekp/docstrfmt": {
+"status": 200,
+"location": null
+},
+"github.com/lorenzwalthert/precommit": {
+"status": 200,
+"location": null
+},
+"github.com/lovesegfault/beautysh": {
+"status": 200,
+"location": null
+},
+"github.com/lucas-c/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/lucas-c/pre-commit-hooks-lxml": {
+"status": 200,
+"location": null
+},
+"github.com/lucas-c/pre-commit-hooks-markup": {
+"status": 200,
+"location": null
+},
+"github.com/lucas-c/pre-commit-hooks-nodejs": {
+"status": 200,
+"location": null
+},
+"github.com/lucianopaz/head_of_apache": {
+"status": 200,
+"location": null
+},
+"github.com/lycheeverse/lychee": {
+"status": 200,
+"location": null
+},
+"github.com/lyz-code/yamlfix": {
+"status": 200,
+"location": null
+},
+"github.com/macisamuele/language-formatters-pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/madoshakalaka/pipenv-setup": {
+"status": 200,
+"location": null
+},
+"github.com/mangiucugna/gha-updater-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/marco-c/taskcluster_yml_validator": {
+"status": 200,
+"location": null
+},
+"github.com/marcogorelli/absolufy-imports": {
+"status": 200,
+"location": null
+},
+"github.com/marcogorelli/auto-walrus": {
+"status": 200,
+"location": null
+},
+"github.com/marcogorelli/cython-lint": {
+"status": 200,
+"location": null
+},
+"github.com/marcogorelli/madforhooks": {
+"status": 200,
+"location": null
+},
+"github.com/mateusz-grzelinski/actionlint-py": {
+"status": 200,
+"location": null
+},
+"github.com/maxbrunet/pre-commit-renovate": {
+"status": 301,
+"location": "https://github.com/renovatebot/pre-commit-hooks"
+},
+"github.com/mgedmin/check-manifest": {
+"status": 200,
+"location": null
+},
+"github.com/mgedmin/check-python-versions": {
+"status": 200,
+"location": null
+},
+"github.com/mondeja/pre-commit-po-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/mpalmer/action-validator": {
+"status": 200,
+"location": null
+},
+"github.com/mrtazz/checkmake": {
+"status": 301,
+"location": "https://github.com/checkmake/checkmake"
+},
+"github.com/mtkennerly/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/mwouts/jupytext": {
+"status": 301,
+"location": "https://github.com/jupytext/jupytext"
+},
+"github.com/myint/autoflake": {
+"status": 301,
+"location": "https://github.com/PyCQA/autoflake"
+},
+"github.com/myint/docformatter": {
+"status": 301,
+"location": "https://github.com/PyCQA/docformatter"
+},
+"github.com/myint/eradicate": {
+"status": 301,
+"location": "https://github.com/PyCQA/eradicate"
+},
+"github.com/myint/rstcheck": {
+"status": 301,
+"location": "https://github.com/rstcheck/rstcheck"
+},
+"github.com/narsil/pre-commit-rust": {
+"status": 200,
+"location": null
+},
+"github.com/nbqa-dev/nbqa": {
+"status": 200,
+"location": null
+},
+"github.com/netromdk/vermin": {
+"status": 200,
+"location": null
+},
+"github.com/nim65s/pre-commit-sort": {
+"status": 200,
+"location": null
+},
+"github.com/ninoseki/uv-sort": {
+"status": 200,
+"location": null
+},
+"github.com/nixos/nixfmt": {
+"status": 200,
+"location": null
+},
+"github.com/nonebot/nonemoji": {
+"status": 200,
+"location": null
+},
+"github.com/norwoodj/helm-docs": {
+"status": 200,
+"location": null
+},
+"github.com/numpy/numpydoc": {
+"status": 200,
+"location": null
+},
+"github.com/nvidia/security-workflows": {
+"status": 200,
+"location": null
+},
+"github.com/omnilib/ufmt": {
+"status": 200,
+"location": null
+},
+"github.com/openstack-dev/bashate": {
+"status": 301,
+"location": "https://github.com/openstack/bashate"
+},
+"github.com/openstack/bashate": {
+"status": 200,
+"location": null
+},
+"github.com/owenlamont/ryl-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/oxc-project/mirrors-oxfmt": {
+"status": 200,
+"location": null
+},
+"github.com/oxipng/oxipng": {
+"status": 200,
+"location": null
+},
+"github.com/pappasam/toml-sort": {
+"status": 200,
+"location": null
+},
+"github.com/patrick91/pre-commit-alex": {
+"status": 301,
+"location": "https://github.com/patrick91-archive/pre-commit-alex"
+},
+"github.com/pfcclab/ast-grep-pre-commit-mirror": {
+"status": 200,
+"location": null
+},
+"github.com/pfcclab/cmake-lint-paddle": {
+"status": 200,
+"location": null
+},
+"github.com/pfcclab/typos-pre-commit-mirror": {
+"status": 200,
+"location": null
+},
+"github.com/pfcclab/yamlfmt-pre-commit-mirror": {
+"status": 200,
+"location": null
+},
+"github.com/pierre-sassoulas/black-disable-checker": {
+"status": 200,
+"location": null
+},
+"github.com/pierre-sassoulas/copyright_notice_precommit": {
+"status": 200,
+"location": null
+},
+"github.com/pocc/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/posit-dev/air-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/praw-dev/codesorter": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-autopep8": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-clang-format": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-eslint": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-isort": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-mypy": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-prettier": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-pylint": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/mirrors-yapf": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/pre-commit/pygrep-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/prettier/pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/princetonuniversity/blocklint": {
+"status": 200,
+"location": null
+},
+"github.com/provinzkraut/unasyncd": {
+"status": 200,
+"location": null
+},
+"github.com/psf/black": {
+"status": 200,
+"location": null
+},
+"github.com/psf/black-pre-commit-mirror": {
+"status": 200,
+"location": null
+},
+"github.com/pycalendar/ai-prompt-auto-commit": {
+"status": 200,
+"location": null
+},
+"github.com/pycontribs/mirrors-prettier": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/autoflake": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/bandit": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/doc8": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/docformatter": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/flake8": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/isort": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/pydocstyle": {
+"status": 200,
+"location": null
+},
+"github.com/pycqa/pylint": {
+"status": 301,
+"location": "https://github.com/pylint-dev/pylint"
+},
+"github.com/pylint-dev/pylint": {
+"status": 200,
+"location": null
+},
+"github.com/pypa/pip-audit": {
+"status": 200,
+"location": null
+},
+"github.com/pysentry/pysentry-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/pytest-dev/pyproject-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/python-coincidence/dep_checker": {
+"status": 200,
+"location": null
+},
+"github.com/python-formate/flake8-dunder-all": {
+"status": 200,
+"location": null
+},
+"github.com/python-formate/formate": {
+"status": 200,
+"location": null
+},
+"github.com/python-formate/pyupgrade": {
+"status": 200,
+"location": null
+},
+"github.com/python-formate/snippet-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/python-jsonschema/check-jsonschema": {
+"status": 200,
+"location": null
+},
+"github.com/python-poetry/poetry": {
+"status": 200,
+"location": null
+},
+"github.com/python/black": {
+"status": 301,
+"location": "https://github.com/psf/black"
+},
+"github.com/rbubley/mirrors-prettier": {
+"status": 200,
+"location": null
+},
+"github.com/regebro/pyroma": {
+"status": 200,
+"location": null
+},
+"github.com/renovatebot/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/repo-helper/pyproject-parser": {
+"status": 200,
+"location": null
+},
+"github.com/reteps/dockerfmt": {
+"status": 200,
+"location": null
+},
+"github.com/rhysd/actionlint": {
+"status": 200,
+"location": null
+},
+"github.com/riverside-healthcare/djlint": {
+"status": 301,
+"location": "https://github.com/djlint/djLint"
+},
+"github.com/robertcraigie/pyright-python": {
+"status": 200,
+"location": null
+},
+"github.com/rohaquinlop/complexipy-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/rstcheck/rstcheck": {
+"status": 200,
+"location": null
+},
+"github.com/rtts/djhtml": {
+"status": 200,
+"location": null
+},
+"github.com/rubocop/rubocop": {
+"status": 200,
+"location": null
+},
+"github.com/rvben/rumdl-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/scientific-python/cookie": {
+"status": 200,
+"location": null
+},
+"github.com/scop/pre-commit-shfmt": {
+"status": 200,
+"location": null
+},
+"github.com/scrapy/sphinx-scrapy": {
+"status": 200,
+"location": null
+},
+"github.com/seddonym/import-linter": {
+"status": 301,
+"location": "https://github.com/import-linter/import-linter"
+},
+"github.com/semgrep/pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/semgrep/semgrep": {
+"status": 200,
+"location": null
+},
+"github.com/shellcheck-py/shellcheck-py": {
+"status": 200,
+"location": null
+},
+"github.com/shssoichiro/oxipng": {
+"status": 301,
+"location": "https://github.com/oxipng/oxipng"
+},
+"github.com/simonepri/ifttt-lint": {
+"status": 200,
+"location": null
+},
+"github.com/simple-icons/svglint": {
+"status": 200,
+"location": null
+},
+"github.com/simpleitk/commentspellcheck": {
+"status": 200,
+"location": null
+},
+"github.com/sirosen/check-jsonschema": {
+"status": 301,
+"location": "https://github.com/python-jsonschema/check-jsonschema"
+},
+"github.com/sirosen/dependency-groups": {
+"status": 200,
+"location": null
+},
+"github.com/sirosen/slyp": {
+"status": 200,
+"location": null
+},
+"github.com/sirosen/texthooks": {
+"status": 200,
+"location": null
+},
+"github.com/sphinx-contrib/sphinx-lint": {
+"status": 200,
+"location": null
+},
+"github.com/sqlalchemyorg/zimports": {
+"status": 200,
+"location": null
+},
+"github.com/srstevenson/nb-clean": {
+"status": 200,
+"location": null
+},
+"github.com/standard/standard": {
+"status": 200,
+"location": null
+},
+"github.com/stefsmeets/nbcheckorder": {
+"status": 200,
+"location": null
+},
+"github.com/streetsidesoftware/cspell-cli": {
+"status": 200,
+"location": null
+},
+"github.com/takishima/cmake-pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/terrencepreilly/darglint": {
+"status": 200,
+"location": null
+},
+"github.com/thibaudcolas/curlylint": {
+"status": 200,
+"location": null
+},
+"github.com/thibaudcolas/pre-commit-stylelint": {
+"status": 200,
+"location": null
+},
+"github.com/thlorenz/doctoc": {
+"status": 200,
+"location": null
+},
+"github.com/timothycrosley/isort": {
+"status": 301,
+"location": "https://github.com/PyCQA/isort"
+},
+"github.com/tombi-toml/tombi-pre-commit": {
+"status": 200,
+"location": null
+},
+"github.com/tox-dev/pyproject-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/tox-dev/tox-ini-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/tox-dev/tox-toml-fmt": {
+"status": 200,
+"location": null
+},
+"github.com/trbs/pre-commit-hooks-trbs": {
+"status": 200,
+"location": null
+},
+"github.com/trim21/pre-commit-mirror-meson": {
+"status": 200,
+"location": null
+},
+"github.com/twisted/towncrier": {
+"status": 200,
+"location": null
+},
+"github.com/twu/skjold": {
+"status": 200,
+"location": null
+},
+"github.com/uktrade/github-standards": {
+"status": 200,
+"location": null
+},
+"github.com/vala-lang/vala-lint": {
+"status": 200,
+"location": null
+},
+"github.com/woodruffw/zizmor-pre-commit": {
+"status": 301,
+"location": "https://github.com/zizmorcore/zizmor-pre-commit"
+},
+"github.com/yelp/detect-secrets": {
+"status": 200,
+"location": null
+},
+"github.com/yunojuno/pre-commit-xenon": {
+"status": 200,
+"location": null
+},
+"github.com/zac-hd/shed": {
+"status": 200,
+"location": null
+},
+"github.com/zendern/pre-commit-hooks": {
+"status": 200,
+"location": null
+},
+"github.com/zizmorcore/zizmor-pre-commit": {
+"status": 200,
+"location": null
+},
+"gitlab.com/bmares/check-json5": {
+"status": null,
+"location": null
+},
+"gitlab.com/daverona/pre-commit/cpp": {
+"status": null,
+"location": null
+},
+"gitlab.com/pycqa/flake8": {
+"status": null,
+"location": null
+}
+}

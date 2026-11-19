@@ -1,0 +1,303 @@
+hook_repo,category,configs_using,entries
+github.com/pre-commit/pre-commit-hooks,file hygiene,999,1021
+github.com/astral-sh/ruff-pre-commit,linter,762,789
+github.com/pre-commit/mirrors-mypy,type checker,327,334
+github.com/pycqa/flake8,linter,261,261
+github.com/codespell-project/codespell,spelling,242,242
+github.com/pycqa/isort,formatter,216,217
+github.com/psf/black,formatter,200,200
+github.com/asottile/pyupgrade,linter,189,189
+github.com/zizmorcore/zizmor-pre-commit,security scanner,133,134
+github.com/pre-commit/pygrep-hooks,file hygiene,111,111
+github.com/python-jsonschema/check-jsonschema,packaging and metadata,104,104
+github.com/psf/black-pre-commit-mirror,formatter,97,97
+github.com/astral-sh/uv-pre-commit,packaging and metadata,75,75
+github.com/tox-dev/pyproject-fmt,formatter,69,69
+github.com/abravalheri/validate-pyproject,packaging and metadata,67,67
+github.com/pre-commit/mirrors-prettier,formatter,67,67
+github.com/crate-ci/typos,spelling,66,66
+github.com/rhysd/actionlint,linter,65,65
+github.com/adamchainz/blacken-docs,formatter,52,52
+github.com/executablebooks/mdformat,formatter,48,48
+github.com/pre-commit/mirrors-clang-format,formatter,48,52
+github.com/lucas-c/pre-commit-hooks,file hygiene,47,47
+github.com/adrienverge/yamllint,linter,45,45
+github.com/asottile/blacken-docs,formatter,42,42
+github.com/sphinx-contrib/sphinx-lint,linter,41,41
+github.com/rbubley/mirrors-prettier,formatter,37,37
+github.com/charliermarsh/ruff-pre-commit,linter,32,32
+github.com/asottile/yesqa,linter,30,30
+github.com/shellcheck-py/shellcheck-py,linter,29,29
+github.com/rstcheck/rstcheck,linter,28,28
+github.com/google/yamlfmt,formatter,28,28
+github.com/pycqa/autoflake,formatter,27,27
+github.com/hhatto/autopep8,formatter,27,27
+github.com/adamchainz/django-upgrade,linter,25,25
+github.com/pycqa/bandit,security scanner,23,23
+github.com/asottile/add-trailing-comma,formatter,23,23
+github.com/scientific-python/cookie,packaging and metadata,23,23
+github.com/macisamuele/language-formatters-pre-commit-hooks,formatter,21,21
+github.com/robertcraigie/pyright-python,type checker,21,21
+github.com/ambv/black,formatter,21,21
+github.com/cheshirekow/cmake-format-precommit,formatter,21,21
+github.com/hukkin/mdformat,formatter,21,21
+github.com/pycqa/pylint,linter,20,20
+github.com/tox-dev/tox-ini-fmt,formatter,20,20
+github.com/pappasam/toml-sort,formatter,20,20
+github.com/asottile/setup-cfg-fmt,formatter,19,19
+github.com/commitizen-tools/commitizen,commit message,19,19
+github.com/asottile/reorder-python-imports,formatter,19,19
+github.com/pycqa/pydocstyle,linter,17,17
+github.com/igorshubovych/markdownlint-cli,linter,17,17
+github.com/marcogorelli/cython-lint,linter,17,17
+github.com/gitleaks/gitleaks,security scanner,17,17
+github.com/pycqa/doc8,linter,16,16
+github.com/mgedmin/check-manifest,packaging and metadata,15,15
+github.com/astral-sh/ty-pre-commit,type checker,14,14
+github.com/compilerla/conventional-pre-commit,commit message,14,14
+github.com/henryiii/flake8-lazy,linter,14,14
+github.com/jorisroovers/gitlint,commit message,13,13
+github.com/biomejs/pre-commit,formatter,13,13
+github.com/python/black,formatter,13,13
+github.com/compwa/taplo-pre-commit,formatter,12,12
+github.com/sirosen/check-jsonschema,packaging and metadata,12,13
+github.com/woodruffw/zizmor-pre-commit,security scanner,12,12
+github.com/kynan/nbstripout,formatter,12,12
+github.com/lilspazjoekp/docstrfmt,formatter,12,12
+github.com/gaborbernat/simplint-pre-commit,linter,12,12
+github.com/asottile/reorder_python_imports,formatter,11,11
+github.com/yelp/detect-secrets,security scanner,11,11
+github.com/lucas-c/pre-commit-hooks-markup,linter,11,11
+github.com/econchick/interrogate,linter,11,11
+github.com/pycqa/docformatter,formatter,10,10
+github.com/timothycrosley/isort,formatter,10,10
+github.com/scop/pre-commit-shfmt,formatter,9,9
+github.com/pre-commit/mirrors-isort,formatter,9,9
+github.com/sirosen/texthooks,file hygiene,9,9
+github.com/pre-commit/pre-commit,packaging and metadata,8,8
+github.com/henryiii/validate-pyproject-schema-store,packaging and metadata,8,8
+github.com/rvben/rumdl-pre-commit,linter,8,8
+github.com/isidentical/teyit,linter,8,8
+github.com/tox-dev/tox-toml-fmt,formatter,8,8
+github.com/myint/autoflake,formatter,7,7
+gitlab.com/pycqa/flake8,linter,7,7
+github.com/marcogorelli/absolufy-imports,formatter,7,7
+github.com/jsh9/pydoclint,linter,7,7
+github.com/jumanjihouse/pre-commit-hook-yamlfmt,formatter,7,7
+github.com/python-poetry/poetry,packaging and metadata,7,7
+github.com/jendrikseipp/vulture,linter,7,7
+github.com/pre-commit/mirrors-eslint,linter,7,7
+github.com/princetonuniversity/blocklint,linter,6,6
+github.com/jackdewinter/pymarkdown,linter,6,9
+github.com/koalaman/shellcheck-precommit,linter,6,6
+github.com/hadialqattan/pycln,formatter,6,6
+github.com/asottile/seed-isort-config,formatter,6,6
+github.com/henryiii/check-sdist,packaging and metadata,6,6
+github.com/nim65s/pre-commit-sort,formatter,6,6
+github.com/omnilib/ufmt,formatter,6,6
+github.com/tombi-toml/tombi-pre-commit,formatter,6,6
+github.com/adhtruong/mirrors-typos,spelling,6,6
+github.com/davidanson/markdownlint-cli2,linter,5,5
+github.com/doublify/pre-commit-rust,linter,5,5
+github.com/ansible/actions,linter,5,5
+github.com/cpplint/cpplint,linter,5,6
+github.com/numpy/numpydoc,linter,5,5
+github.com/semgrep/pre-commit,security scanner,5,7
+github.com/kjanat/actionlint,linter,5,5
+github.com/google/yapf,formatter,5,5
+github.com/regebro/pyroma,packaging and metadata,5,5
+github.com/keewis/blackdoc,formatter,5,5
+github.com/editorconfig-checker/editorconfig-checker.python,file hygiene,4,4
+github.com/mateusz-grzelinski/actionlint-py,linter,4,4
+github.com/facebook/pyrefly-pre-commit,type checker,4,4
+github.com/ansible/team-devtools,linter,4,4
+github.com/marcogorelli/auto-walrus,formatter,4,4
+github.com/python-formate/flake8-dunder-all,linter,4,4
+github.com/pylint-dev/pylint,linter,4,4
+github.com/espressif/conventional-precommit-linter,commit message,4,4
+github.com/jolars/panache-pre-commit,formatter,4,4
+github.com/mwouts/jupytext,formatter,4,4
+github.com/hoxbro/clean_notebook,formatter,4,4
+github.com/hoxbro/prettier-pre-commit,formatter,4,4
+github.com/sirosen/slyp,linter,4,4
+github.com/editorconfig-checker/editorconfig-checker,file hygiene,4,4
+github.com/ariebovenberg/slotscheck,linter,4,4
+github.com/sqlalchemyorg/zimports,formatter,4,4
+github.com/netromdk/vermin,linter,3,3
+github.com/ibm/detect-secrets,security scanner,3,3
+github.com/pre-commit/mirrors-pylint,linter,3,3
+github.com/lyz-code/yamlfix,formatter,3,3
+github.com/adamchainz/djade-pre-commit,formatter,3,3
+github.com/thlorenz/doctoc,formatter,3,3
+github.com/lycheeverse/lychee,linter,3,3
+github.com/trim21/pre-commit-mirror-meson,formatter,3,3
+github.com/golangci/golangci-lint,linter,3,3
+github.com/nbqa-dev/nbqa,linter,3,3
+github.com/oxipng/oxipng,file hygiene,3,3
+github.com/praw-dev/codesorter,formatter,3,3
+github.com/thibaudcolas/pre-commit-stylelint,linter,3,3
+github.com/fizyk/pyproject-validator,packaging and metadata,3,3
+github.com/repo-helper/pyproject-parser,packaging and metadata,3,3
+github.com/domdfcoding/taplo-pre-commit,formatter,3,3
+github.com/domdfcoding/pre-commit-hooks,file hygiene,3,3
+github.com/domdfcoding/flake2lint,linter,3,3
+github.com/python-formate/pyupgrade,linter,3,3
+github.com/python-formate/snippet-fmt,formatter,3,3
+github.com/python-formate/formate,formatter,3,3
+github.com/python-coincidence/dep_checker,packaging and metadata,3,3
+github.com/espressif/check-copyright,file hygiene,3,3
+github.com/hukkin/docformatter,formatter,3,3
+github.com/fsfe/reuse-tool,packaging and metadata,3,3
+github.com/scrapy/sphinx-scrapy,linter,3,3
+github.com/fredrikaverpil/creosote,other,2,2
+github.com/joc0de/pre-commit-prettier,other,2,2
+github.com/nvidia/security-workflows,other,2,2
+github.com/betterleaks/betterleaks,other,2,2
+github.com/zac-hd/shed,other,2,2
+github.com/ansible/ansible-lint,other,2,2
+github.com/ikamensh/flynt,other,2,2
+github.com/hadolint/hadolint,other,2,2
+github.com/pypa/pip-audit,other,2,2
+github.com/antonbabenko/pre-commit-terraform,other,2,2
+github.com/humitos/mirrors-autoflake,other,2,2
+github.com/keith/pre-commit-buildifier,other,2,2
+github.com/seddonym/import-linter,other,2,2
+github.com/blankspruce/gersemi,other,2,2
+github.com/pycalendar/ai-prompt-auto-commit,other,2,2
+github.com/jumanjihouse/pre-commit-hooks,other,2,2
+github.com/akaihola/darker,other,2,2
+github.com/mgedmin/check-python-versions,other,2,2
+github.com/codingjoe/esupgrade,other,2,2
+github.com/oxc-project/mirrors-oxfmt,other,2,2
+github.com/doublify/pre-commit-clang-format,other,2,2
+github.com/frostming/fix-future-annotations,other,2,2
+github.com/google/pyink,other,2,2
+gitlab.com/bmares/check-json5,other,2,2
+github.com/kurtmckee/pre-commit-hooks,other,2,2
+github.com/pycontribs/mirrors-prettier,other,2,2
+github.com/srstevenson/nb-clean,other,2,2
+github.com/pre-commit/mirrors-yapf,other,2,2
+github.com/mtkennerly/pre-commit-hooks,other,2,2
+github.com/pierre-sassoulas/copyright_notice_precommit,other,2,2
+github.com/pierre-sassoulas/black-disable-checker,other,2,2
+github.com/pytest-dev/pyproject-fmt,other,2,2
+github.com/danielnoord/pydocstringformatter,other,2,2
+github.com/citation-file-format/cffconvert,other,2,2
+github.com/pysentry/pysentry-pre-commit,other,2,2
+github.com/alessio-locatelli/ruff-extra-rules,other,2,2
+github.com/rohaquinlop/complexipy-pre-commit,other,2,2
+github.com/zendern/pre-commit-hooks,other,2,2
+github.com/twisted/towncrier,other,2,2
+github.com/uktrade/github-standards,other,2,2
+github.com/rtts/djhtml,formatter,2,2
+github.com/alexandermattturner/ci-truth-serum,other,1,1
+github.com/ingomeyer441/detect-direct-checkins,other,1,1
+github.com/bufbuild/buf,other,1,1
+github.com/lovesegfault/beautysh,other,1,1
+github.com/myint/eradicate,other,1,1
+github.com/aio-libs/sort-all,other,1,1
+github.com/pocc/pre-commit-hooks,other,1,1
+github.com/blankspruce/gersemi-pre-commit,other,1,1
+github.com/simpleitk/commentspellcheck,other,1,1
+github.com/dosisod/refurb,other,1,1
+github.com/aleksac/hadolint-py,other,1,1
+github.com/standard/standard,other,1,1
+github.com/andrejorsula/pre-commit-cargo,other,1,1
+git://github.com/lucas-c/pre-commit-hooks-markup,other,1,1
+github.com/etiennebacher/jarl-pre-commit,other,1,1
+github.com/posit-dev/air-pre-commit,other,1,1
+github.com/rubocop/rubocop,other,1,1
+github.com/vala-lang/vala-lint,other,1,1
+github.com/checkmake/checkmake,other,1,1
+github.com/marcogorelli/madforhooks,other,1,1
+github.com/google/keep-sorted,other,1,1
+github.com/simonepri/ifttt-lint,other,1,1
+github.com/madoshakalaka/pipenv-setup,other,1,1
+github.com/dontirun/text-prepender,other,1,1
+github.com/kludex/no-optional,other,1,1
+github.com/lucas-c/pre-commit-hooks-lxml,other,1,1
+github.com/djlint/djlint,other,1,1
+github.com/crate-ci/committed,other,1,1
+github.com/dbt-labs/pre-commit-hooks,other,1,1
+gitlab.com/daverona/pre-commit/cpp,other,1,1
+github.com/lucas-c/pre-commit-hooks-nodejs,other,1,1
+github.com/trbs/pre-commit-hooks-trbs,other,1,1
+github.com/elastic/apm-pipeline-library,other,1,1
+github.com/cdce8p/python-typing-update,other,1,1
+github.com/fpgmaas/deptry,other,1,1
+github.com/adityahase/black,other,1,1
+github.com/google/pytype,other,1,1
+github.com/myint/docformatter,other,1,1
+github.com/openstack/bashate,other,1,1
+github.com/jvllmr/pre-commit-prettier,other,1,1
+github.com/hoxbro/taplo-pre-commit,other,1,1
+github.com/nixos/nixfmt,other,1,1
+github.com/narsil/pre-commit-rust,other,1,2
+github.com/huggingface/doc-builder,other,1,1
+github.com/twu/skjold,other,1,1
+github.com/myint/rstcheck,other,1,1
+github.com/kieran-ryan/pyprojectsort,other,1,1
+github.com/jsh9/muff-pre-commit,other,1,1
+github.com/jsh9/format-json,other,1,1
+github.com/jsh9/markdown-heading-numbering,other,1,1
+github.com/jsh9/markdown-toc-creator,other,1,1
+github.com/jsh9/format-docstring,other,1,1
+github.com/jsh9/blank-line-after-blocks,other,1,1
+github.com/jsh9/pre-commit-tox-version-sync,other,1,1
+github.com/jsh9/pre-commit-changelog-full-diff-check,other,1,1
+github.com/codingjoe/relint,other,1,1
+github.com/arkinmodi/add-license-header,other,1,1
+github.com/cmake-lint/cmake-lint,other,1,1
+github.com/provinzkraut/unasyncd,other,1,1
+github.com/flakeheaven/flakeheaven,other,1,1
+github.com/prettier/pre-commit,other,1,1
+github.com/mangiucugna/gha-updater-pre-commit,other,1,1
+github.com/simple-icons/svglint,other,1,1
+github.com/mpalmer/action-validator,other,1,1
+github.com/fsouza/mirrors-pyright,other,1,1
+github.com/renovatebot/pre-commit-hooks,other,1,1
+github.com/lorenzwalthert/precommit,other,1,1
+github.com/hauntsaninja/black-pre-commit-mirror,other,1,1
+github.com/terrencepreilly/darglint,other,1,1
+github.com/google/addlicense,other,1,1
+github.com/ninoseki/uv-sort,other,1,1
+github.com/floatingpurr/sync_with_poetry,other,1,1
+github.com/pfcclab/ast-grep-pre-commit-mirror,other,1,1
+github.com/pfcclab/typos-pre-commit-mirror,other,1,1
+github.com/pfcclab/cmake-lint-paddle,other,1,1
+github.com/pfcclab/yamlfmt-pre-commit-mirror,other,1,1
+github.com/shssoichiro/oxipng,other,1,1
+github.com/jazzband/pip-tools,other,1,1
+github.com/openstack-dev/bashate,other,1,1
+github.com/streetsidesoftware/cspell-cli,other,1,1
+github.com/dzhu/rstfmt,other,1,1
+github.com/riverside-healthcare/djlint,other,1,1
+github.com/mondeja/pre-commit-po-hooks,other,1,1
+github.com/citation-file-format/cff-converter-python,other,1,1
+github.com/lucianopaz/head_of_apache,other,1,1
+github.com/sirosen/dependency-groups,other,1,1
+github.com/elidupuis/mirrors-sass-lint,other,1,1
+github.com/maxbrunet/pre-commit-renovate,other,1,1
+github.com/pre-commit/mirrors-autopep8,formatter,1,1
+github.com/reteps/dockerfmt,other,1,1
+github.com/mrtazz/checkmake,other,1,1
+github.com/yunojuno/pre-commit-xenon,other,1,1
+github.com/jdx/jactionlint,other,1,1
+github.com/owenlamont/ryl-pre-commit,other,1,1
+github.com/huntermcgushion/docstr_coverage,other,1,1
+github.com/flying-sheep/bibfmt,other,1,1
+github.com/google/go-jsonnet,other,1,1
+github.com/stefsmeets/nbcheckorder,other,1,1
+github.com/gruntwork-io/pre-commit,other,1,1
+github.com/takishima/cmake-pre-commit-hooks,other,1,1
+github.com/fortran-lang/fprettify,other,1,1
+github.com/leaktk/leaktk,other,1,1
+github.com/patrick91/pre-commit-alex,other,1,1
+github.com/marco-c/taskcluster_yml_validator,other,1,1
+github.com/alessandrojcm/commitlint-pre-commit-hook,other,1,1
+github.com/norwoodj/helm-docs,other,1,1
+github.com/thibaudcolas/curlylint,other,1,1
+github.com/semgrep/semgrep,other,1,1
+github.com/instagram/fixit,other,1,1
+github.com/iamthefij/docker-pre-commit,other,1,1
+github.com/nonebot/nonemoji,other,1,1

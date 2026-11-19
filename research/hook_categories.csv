@@ -1,0 +1,156 @@
+hook_repo,category,note
+github.com/pre-commit/pre-commit-hooks,file hygiene,"trailing whitespace; end-of-file; merge conflicts; large files; syntax checks"
+github.com/pre-commit/pygrep-hooks,file hygiene,"regex checks (blanket noqa; type: ignore; rst)"
+github.com/astral-sh/ruff-pre-commit,linter,ruff check and ruff format (also a formatter)
+github.com/charliermarsh/ruff-pre-commit,linter,old location of ruff-pre-commit
+github.com/psf/black-pre-commit-mirror,formatter,
+github.com/psf/black,formatter,
+github.com/pycqa/isort,formatter,import sorting
+github.com/asottile/reorder-python-imports,formatter,import sorting
+github.com/asottile/add-trailing-comma,formatter,
+github.com/pycqa/autoflake,formatter,removes unused imports
+github.com/pycqa/docformatter,formatter,
+github.com/hadialqattan/pycln,formatter,removes unused imports
+github.com/adamchainz/blacken-docs,formatter,formats code in documentation
+github.com/asottile/blacken-docs,formatter,old location of blacken-docs
+github.com/pre-commit/mirrors-prettier,formatter,
+github.com/rbubley/mirrors-prettier,formatter,
+github.com/pre-commit/mirrors-clang-format,formatter,
+github.com/google/yamlfmt,formatter,
+github.com/executablebooks/mdformat,formatter,former location of hukkin/mdformat
+github.com/pappasam/toml-sort,formatter,
+github.com/tox-dev/pyproject-fmt,formatter,
+github.com/tox-dev/tox-ini-fmt,formatter,
+github.com/asottile/setup-cfg-fmt,formatter,
+github.com/macisamuele/language-formatters-pre-commit-hooks,formatter,
+github.com/pre-commit/mirrors-autopep8,formatter,
+github.com/hhatto/autopep8,formatter,
+github.com/pycqa/autopep8,formatter,
+github.com/biomejs/pre-commit,formatter,biome format and lint
+github.com/rtts/djhtml,formatter,
+github.com/kynan/nbstripout,formatter,strips notebook outputs
+github.com/asottile/pyupgrade,linter,rewrites syntax for newer Python (modernisation)
+github.com/adamchainz/django-upgrade,linter,rewrites for newer Django (modernisation)
+github.com/pycqa/flake8,linter,
+github.com/pycqa/pylint,linter,
+github.com/pylint-dev/pylint,linter,
+github.com/pycqa/pydocstyle,linter,
+github.com/jsh9/pydoclint,linter,
+github.com/pycqa/doc8,linter,
+github.com/sphinx-contrib/sphinx-lint,linter,
+github.com/adrienverge/yamllint,linter,
+github.com/igorshubovych/markdownlint-cli,linter,
+github.com/shellcheck-py/shellcheck-py,linter,
+github.com/scop/pre-commit-shfmt,formatter,
+github.com/rhysd/actionlint,linter,GitHub Actions workflows
+github.com/nbqa-dev/nbqa,linter,runs tools on notebooks
+github.com/pre-commit/mirrors-mypy,type checker,
+github.com/microsoft/pyright,type checker,
+github.com/rbubley/mirrors-pyright,type checker,
+github.com/codespell-project/codespell,spelling,
+github.com/crate-ci/typos,spelling,
+github.com/zizmorcore/zizmor-pre-commit,security scanner,GitHub Actions security
+github.com/woodruffw/zizmor-pre-commit,security scanner,old location of zizmor-pre-commit
+github.com/pycqa/bandit,security scanner,
+github.com/python-jsonschema/check-jsonschema,packaging and metadata,"schema checks (workflows; dependabot; readthedocs)"
+github.com/abravalheri/validate-pyproject,packaging and metadata,
+github.com/mgedmin/check-manifest,packaging and metadata,
+github.com/regebro/pyroma,packaging and metadata,
+github.com/astral-sh/uv-pre-commit,packaging and metadata,uv lock and export
+github.com/lucas-c/pre-commit-hooks,file hygiene,"licence headers; tabs; CRLF"
+github.com/asottile/yesqa,linter,removes unneeded noqa
+github.com/rstcheck/rstcheck,linter,
+github.com/scientific-python/cookie,packaging and metadata,repo-review
+github.com/robertcraigie/pyright-python,type checker,
+github.com/ambv/black,formatter,former location of psf/black
+github.com/python/black,formatter,former location of psf/black
+github.com/cheshirekow/cmake-format-precommit,formatter,
+github.com/hukkin/mdformat,formatter,current location (executablebooks/mdformat redirects here)
+github.com/commitizen-tools/commitizen,commit message,
+github.com/marcogorelli/cython-lint,linter,
+github.com/gitleaks/gitleaks,security scanner,secrets
+github.com/astral-sh/ty-pre-commit,type checker,
+github.com/compilerla/conventional-pre-commit,commit message,
+github.com/henryiii/flake8-lazy,linter,
+github.com/jorisroovers/gitlint,commit message,
+github.com/compwa/taplo-pre-commit,formatter,TOML
+github.com/sirosen/check-jsonschema,packaging and metadata,former location of python-jsonschema/check-jsonschema
+github.com/lilspazjoekp/docstrfmt,formatter,
+github.com/gaborbernat/simplint-pre-commit,linter,
+github.com/asottile/reorder_python_imports,formatter,former name of reorder-python-imports
+github.com/yelp/detect-secrets,security scanner,secrets
+github.com/lucas-c/pre-commit-hooks-markup,linter,markup
+github.com/econchick/interrogate,linter,docstring coverage
+github.com/timothycrosley/isort,formatter,former location of pycqa/isort
+github.com/pre-commit/mirrors-isort,formatter,
+github.com/sirosen/texthooks,file hygiene,
+github.com/pre-commit/pre-commit,packaging and metadata,pre-commit's own manifest checks
+github.com/henryiii/validate-pyproject-schema-store,packaging and metadata,
+github.com/rvben/rumdl-pre-commit,linter,Markdown
+github.com/isidentical/teyit,linter,
+github.com/tox-dev/tox-toml-fmt,formatter,
+github.com/myint/autoflake,formatter,former location of pycqa/autoflake
+gitlab.com/pycqa/flake8,linter,former location of github.com/pycqa/flake8
+github.com/marcogorelli/absolufy-imports,formatter,
+github.com/jumanjihouse/pre-commit-hook-yamlfmt,formatter,
+github.com/python-poetry/poetry,packaging and metadata,
+github.com/jendrikseipp/vulture,linter,dead code
+github.com/pre-commit/mirrors-eslint,linter,
+github.com/princetonuniversity/blocklint,linter,
+github.com/jackdewinter/pymarkdown,linter,
+github.com/koalaman/shellcheck-precommit,linter,
+github.com/asottile/seed-isort-config,formatter,
+github.com/henryiii/check-sdist,packaging and metadata,
+github.com/nim65s/pre-commit-sort,formatter,
+github.com/omnilib/ufmt,formatter,
+github.com/tombi-toml/tombi-pre-commit,formatter,TOML
+github.com/adhtruong/mirrors-typos,spelling,
+github.com/davidanson/markdownlint-cli2,linter,
+github.com/doublify/pre-commit-rust,linter,cargo fmt and clippy
+github.com/ansible/actions,linter,
+github.com/cpplint/cpplint,linter,
+github.com/numpy/numpydoc,linter,
+github.com/semgrep/pre-commit,security scanner,
+github.com/kjanat/actionlint,linter,
+github.com/google/yapf,formatter,
+github.com/keewis/blackdoc,formatter,
+github.com/editorconfig-checker/editorconfig-checker.python,file hygiene,
+github.com/mateusz-grzelinski/actionlint-py,linter,
+github.com/facebook/pyrefly-pre-commit,type checker,
+github.com/ansible/team-devtools,linter,
+github.com/marcogorelli/auto-walrus,formatter,
+github.com/python-formate/flake8-dunder-all,linter,
+github.com/espressif/conventional-precommit-linter,commit message,
+github.com/jolars/panache-pre-commit,formatter,
+github.com/mwouts/jupytext,formatter,
+github.com/hoxbro/clean_notebook,formatter,
+github.com/hoxbro/prettier-pre-commit,formatter,
+github.com/sirosen/slyp,linter,
+github.com/editorconfig-checker/editorconfig-checker,file hygiene,
+github.com/ariebovenberg/slotscheck,linter,
+github.com/sqlalchemyorg/zimports,formatter,
+github.com/netromdk/vermin,linter,
+github.com/ibm/detect-secrets,security scanner,secrets
+github.com/pre-commit/mirrors-pylint,linter,
+github.com/lyz-code/yamlfix,formatter,
+github.com/adamchainz/djade-pre-commit,formatter,
+github.com/thlorenz/doctoc,formatter,
+github.com/lycheeverse/lychee,linter,link checker
+github.com/trim21/pre-commit-mirror-meson,formatter,
+github.com/golangci/golangci-lint,linter,
+github.com/oxipng/oxipng,file hygiene,image optimisation
+github.com/praw-dev/codesorter,formatter,
+github.com/thibaudcolas/pre-commit-stylelint,linter,
+github.com/fizyk/pyproject-validator,packaging and metadata,
+github.com/repo-helper/pyproject-parser,packaging and metadata,
+github.com/domdfcoding/taplo-pre-commit,formatter,
+github.com/domdfcoding/pre-commit-hooks,file hygiene,
+github.com/domdfcoding/flake2lint,linter,
+github.com/python-formate/pyupgrade,linter,
+github.com/python-formate/snippet-fmt,formatter,
+github.com/python-formate/formate,formatter,
+github.com/python-coincidence/dep_checker,packaging and metadata,
+github.com/espressif/check-copyright,file hygiene,licence headers
+github.com/hukkin/docformatter,formatter,
+github.com/fsfe/reuse-tool,packaging and metadata,licensing compliance
+github.com/scrapy/sphinx-scrapy,linter,documentation
